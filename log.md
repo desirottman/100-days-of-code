@@ -38,3 +38,13 @@
 [How to determine your dream job draft](https://www.notion.so/desilove/How-to-determine-what-your-dream-job-is-0d672983e3b44ea29a75569293d028c5)
 [CakeResume](https://www.cakeresume.com/desi-rottman)
 [Book Cover project](https://codepen.io/desilove/pen/PLGOEQ)
+
+### Day 5: March 7, 2019 
+
+**Today's Progress**: Mostly just read articles on dev.to, did some _tiny_ work on book covers project, and realigned something in TV gen. Asked for design Thursday feedback in Superhi #design Slack. 
+
+**Thoughts:** I had a big frustrating day at work, so my bandwidth for anything was low.
+
+**Link to work:** [Book Cover project](https://codepen.io/desilove/pen/PLGOEQ)
+[TV Generator](http://tv-generator.superhi.com)
+
