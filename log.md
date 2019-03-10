@@ -48,3 +48,30 @@
 **Link to work:** [Book Cover project](https://codepen.io/desilove/pen/PLGOEQ)
 [TV Generator](http://tv-generator.superhi.com)
 
+
+### Day 6: March 8, 2019 
+
+**Today's Progress**: Listened to Code Newbie podcast, did some work on book cover project.
+
+**Thoughts:** Another super trying day at work, so I was pretty fried by the end.
+
+**Link to work:** [Book Cover project](https://codepen.io/desilove/pen/PLGOEQ)
+
+
+### Day 7: March 9, 2019 
+
+**Today's Progress**: Read up on dev.to and some tutorials, worked on a book chapter proposal, wireframed new portfolio site.
+
+**Thoughts:** I'm super excited at the possibility of this chapter but trying not to get too ahead of myself!
+
+**Link to work:** [Simple portfolio](https://codepen.io/desilove/pen/xBdowY)
+[Desi Does](http://www.desidoes.dev)
+
+### Day 8: March 10, 2019 
+
+**Today's Progress**: Worked on book chapter, put up new/simpler portfolio on desidoes.dev
+
+**Thoughts:** Just trying to hack out the rest of this topic and get it posted!
+
+**Link to work:** [Simple portfolio](https://codepen.io/desilove/pen/xBdowY)
+[Desi Does](http://www.desidoes.dev)
