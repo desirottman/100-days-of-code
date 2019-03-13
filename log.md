@@ -66,6 +66,8 @@
 
 **Link to work:** [Simple portfolio](https://codepen.io/desilove/pen/xBdowY)
 [Desi Does](http://www.desidoes.dev)
+[Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
+
 
 ### Day 8: March 10, 2019 
 
@@ -73,5 +75,23 @@
 
 **Thoughts:** Just trying to hack out the rest of this topic and get it posted!
 
-**Link to work:** [Simple portfolio](https://codepen.io/desilove/pen/xBdowY)
-[Desi Does](http://www.desidoes.dev)
+**Link to work:** [Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
+
+### Day 9: March 11, 2019
+
+**Today's Progress:** I didn't do a lot today. Tidied up book chapter a bit, listed to CodeNewbie podcast, read up a bit.
+
+**Thoughts:** Felt a bit braindead and Evan came home after a vacation, so spent time with him.
+
+**Link to work:** [Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
+[CodeNewbie podcast](https://www.codenewbie.org/podcast/codeland-art-and-code-talks-from-stephanie-nemeth-and-dan-shiffman)
+
+
+### Day 10: March 12, 2019
+
+**Today's Progress:** Worked on book chapter, read on dev.to, and worked on book cover project. 
+
+**Thoughts:** Super happy that I got the tilt on the Tell Me Lies h3s!
+
+**Link to work:** [Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
+[Book Cover project](https://glitch.com/edit/#!/broad-legal?path=style.css:50:56)
