@@ -97,11 +97,22 @@
 [Book Cover project](https://glitch.com/edit/#!/broad-legal?path=style.css:50:56)
 
 
-### Day 9: March 13, 2019
+### Day 11: March 13, 2019
 
-**Today's Progress:** Styled book cover project and added random book picker, finished book chapter!!
+**Today's Progress:** Styled book cover project and added random book picker, finished book chapter!! Created a Glitch app to generate random names for things. 
 
-**Thoughts:** I'm still so irritated that I can't seem to figure out how to style javascript results or the button itself, but I'm trying not to get too worked up or focused on this one thing.
+**Thoughts:** I'm still so irritated that I can't seem to figure out how to style javascript results or the button itself, but I'm trying not to get too worked up or focused on this one thing. It would be cool to make the random name generator into an extension.
 
 **Link to work:** [Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
 [Book Cover project](https://glitch.com/edit/#!/broad-legal?path=style.css:50:56)
+[glitch project name generator](https://simple-danger.glitch.me)
+
+
+### Day 12: March 14, 2019
+
+**Today's Progress:** stylized the button in the book cover project, changed some css things there too. learned how to style console messages, so put one in the glitch generator.
+
+**Thoughts:** There's a lot of CSS stuff that I'm starting to "get" so that's been exciting!
+
+**Link to work:** [Stylized book cover button](https://broad-legal.glitch.me/)
+[Learned how to style messages in console](https://dev.to/aaronpowell/pretty-javascript-console-3epj)
