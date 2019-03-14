@@ -95,3 +95,13 @@
 
 **Link to work:** [Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
 [Book Cover project](https://glitch.com/edit/#!/broad-legal?path=style.css:50:56)
+
+
+### Day 9: March 13, 2019
+
+**Today's Progress:** Styled book cover project and added random book picker, finished book chapter!!
+
+**Thoughts:** I'm still so irritated that I can't seem to figure out how to style javascript results or the button itself, but I'm trying not to get too worked up or focused on this one thing.
+
+**Link to work:** [Book Chapter](https://docs.google.com/document/d/1mcQlsni1F25byAdDTFbDR2VJqouEV0M4LflE8h8iFRk/edit#heading=h.u2hc83kat77t)
+[Book Cover project](https://glitch.com/edit/#!/broad-legal?path=style.css:50:56)
