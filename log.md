@@ -116,3 +116,8 @@
 
 **Link to work:** [Stylized book cover button](https://broad-legal.glitch.me/)
 [Learned how to style messages in console](https://dev.to/aaronpowell/pretty-javascript-console-3epj)
+
+
+added some portfolio examples to https://github.com/desirottman/large-advice/wiki
+posted on dev.to
+some updates to desidoes.dev/portfolio.html
