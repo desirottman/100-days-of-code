@@ -110,7 +110,7 @@
 
 ### Day 12: March 14, 2019
 
-**Today's Progress:** stylized the button in the book cover project, changed some css things there too. learned how to style console messages, so put one in the glitch generator.
+**Today's Progress:** Stylized the button in the book cover project, changed some css things there too. learned how to style console messages, so put one in the glitch generator.
 
 **Thoughts:** There's a lot of CSS stuff that I'm starting to "get" so that's been exciting!
 
@@ -118,6 +118,31 @@
 [Learned how to style messages in console](https://dev.to/aaronpowell/pretty-javascript-console-3epj)
 
 
-added some portfolio examples to https://github.com/desirottman/large-advice/wiki
-posted on dev.to
-some updates to desidoes.dev/portfolio.html
+### Day 13: March 15, 2019
+
+**Today's Progress:** Added some portfolio examples to Github and wrote userstories for it, sussed out portfolio page a bit more, posted an article on dev.to
+
+**Thoughts:** I'm trying to figure out the best way to display examples of things like userstories. They don't seem super common on things like 
+
+**Link to work:** [Github wiki links](https://github.com/desirottman/large-advice/wiki)
+[DEV.to post](https://dev.to/desi/whats-your-desk-setup-3306)
+[Portfolio page](https://www.desidoes.dev/portfolio.html)
+
+
+### Day 14: March 16, 2019
+
+**Today's Progress:** Today I went to the #WTM19 summit at Google. It was absolutely amazing. 
+I also got in a fight with a Man on the Internet.
+
+**Thoughts:** I look forward to more fully fleshing out my thoughts, but the tl;dr is that it was amazingly empowering, and made me realize that I know more than I thought. 
+
+**Link to work:** [Man gets upset that women get recognition, I rebut](https://twitter.com/bendhalpern/status/1106937762794651650)
+
+### Day 15: March 17, 2019
+
+**Today's Progress:** Tried finishing up lesson 5 on Superhi, but my javascript isn't working for some reason, and I got really fed up trying to get it to work. I commented on some dev.to articles, and started sketching out two further ideas. I also sent the first draft of the chapter off for proofing and editing! 
+
+**Thoughts:** Fully learning javascript instead of just piecing things together is going to be really hard and frustrating.
+
+**Link to work:** [Essmei](https://week-5-essmei-45.superhi.com/)
+[Portfolio page](https://www.desidoes.dev/portfolio.html)
