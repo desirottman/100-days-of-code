@@ -146,3 +146,11 @@ I also got in a fight with a Man on the Internet.
 
 **Link to work:** [Essmei](https://week-5-essmei-45.superhi.com/)
 [Portfolio page](https://www.desidoes.dev/portfolio.html)
+
+
+
+March 18: took a brain break after a hard day at work
+
+
+March 19, 2019
+Asked for Justine's help on aligning my portfolio menu!!! Also set up the mobile breakpoints and I'm really liking how it's all turning out. Wrote a bit on dev.to. Read Learn to Code Now chatpers 2 & 3. 
