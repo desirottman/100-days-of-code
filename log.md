@@ -148,9 +148,44 @@ I also got in a fight with a Man on the Internet.
 [Portfolio page](https://www.desidoes.dev/portfolio.html)
 
 
+### Day 16: March 18, 2019
+Work was very rough, so I took a brain break.
 
-March 18: took a brain break after a hard day at work
+
+### Day 17: March 19, 2019
+**Today's Progress:** Asked for Justine's help on aligning my portfolio menu!!! Also set up the mobile breakpoints and I'm really liking how it's all turning out. Wrote a bit on dev.to.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 18: March 20, 2019
+**Today's Progress:** Started trying out Codecademy, started reading Badass: Making Users Awesome
+
+**Thoughts:** 
+
+**Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
+[Badass: Making Users Awesome](https://www.goodreads.com/book/show/24737268-badass)
+
+### Day 19: March 21, 2019
+**Today's Progress:** Continued on Codecademy, drafted more dev.to articles
+
+**Thoughts:**
+
+**Link to work**: [Codecademy profile](https://www.codecademy.com/desilove)
+
+### Day 20: March 22, 2019
+**Today's progress:** Did an HTML and CSS code review with Justine on my portfolio, pair programmed a bug at work, practiced codecademy, read Badass
+
+**Thoughts:** 
+
+**Link to work:** [Portfolio code review](https://codepen.io/desilove/pen/xBdowY)
+[Badass: Making Users Awesome](https://www.goodreads.com/book/show/24737268-badass)
 
 
-March 19, 2019
-Asked for Justine's help on aligning my portfolio menu!!! Also set up the mobile breakpoints and I'm really liking how it's all turning out. Wrote a bit on dev.to. Read Learn to Code Now chatpers 2 & 3. 
+### Day 21: March 23, 2019
+**Today's progress:** Finished first Codecademy module and progress, 
+
+**Thoughts**:
+
+**Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
