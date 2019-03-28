@@ -189,3 +189,7 @@ Work was very rough, so I took a brain break.
 **Thoughts**:
 
 **Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
+
+March 27:
+
+specs, wireframe, basic HTML/CSS structure
