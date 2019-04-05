@@ -205,9 +205,10 @@ Work was very rough, so I took a brain break.
 [DoThis Next on Codepen](https://codepen.io/desilove/pen/moZRzd)
 
 ### Day 23: April 4, 2019
-**Today's progress:** Ran through Codecademy command line tutorial, wireframed and started building [Reboot podcast site](http://alphanumeric.draft.superhi.com/index.html), attempted to install Gatsby, collected weekly articles to start a Best of DEV.to series. I also made and committed bug templates to the Bz repo which was scary but exciting. Over the last few days though I wasn't really actively coding, I've been practicing on the Codecademy app.
+**Today's progress:** Ran through Codecademy command line tutorial, wireframed and started building [Reboot podcast site](http://alphanumeric.draft.superhi.com/index.html), attempted to install Gatsby, collected weekly articles to start a Best of DEV.to series. I also made and committed bug templates to the Bz repo which was scary but exciting. Over the last few days though I wasn't really actively coding, I've been practicing on the Codecademy app. Practiced a bit o' Flexbox Froggy.
 
 **Thoughts**: I am very bad at terminal. I tried doing every step I could find to troubleshoot and fix and nothing came up the way I expected. But I'm understanding CSS a little better and the Reboot site was easy - had a little trouble figuring out what `div` to target to set the main body content full-height without any overbleed or shortness, but I thiiiiink I got it.
 
 **Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
 [Reboot podcast site](http://alphanumeric.draft.superhi.com/index.html)
+[Flexbox Froggy](http://flexboxfroggy.com/)
