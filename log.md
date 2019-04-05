@@ -184,12 +184,30 @@ Work was very rough, so I took a brain break.
 
 
 ### Day 21: March 23, 2019
-**Today's progress:** Finished first Codecademy module and progress, 
-
-**Thoughts**:
+**Today's progress:** Finished first Codecademy module and progress.
 
 **Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
 
-March 27:
+### Day 22: March 27, 2019
+**Today's progress:** Started working on random task generator - wrote out specs, drew a wireframe, and wrote out some pseudocode. I also did a preliminary HTML layout for the app.
 
-specs, wireframe, basic HTML/CSS structure
+**Thoughts**: In writing out everything I wanted to do, what seemed easy is starting to get a little complicated, whoops.
+
+**Link to work:** [Planning Doc](https://www.notion.so/desilove/Random-Task-Generator-597f370b3fe94ae7817fc1f66bf46968)
+[DoThis Next on Codepen](https://codepen.io/desilove/pen/moZRzd)
+
+### Day 23: March 28, 2019
+**Today's progress:** Finished(?) fleshing out the HTML/CSS structure for the app, and started on the jS. Got the to-do input sorted, and now I just have to learn how to make the second button pull from the input tasks.
+
+**Thoughts:** I'm going to have to start reading up on some jquery documentation to finish this up, I think!
+
+**Link to work:** [Planning Doc](https://www.notion.so/desilove/Random-Task-Generator-597f370b3fe94ae7817fc1f66bf46968)
+[DoThis Next on Codepen](https://codepen.io/desilove/pen/moZRzd)
+
+### Day 23: April 4, 2019
+**Today's progress:** Ran through Codecademy command line tutorial, wireframed and started building [Reboot podcast site](http://alphanumeric.draft.superhi.com/index.html), attempted to install Gatsby, collected weekly articles to start a Best of DEV.to series. I also made and committed bug templates to the Bz repo which was scary but exciting. Over the last few days though I wasn't really actively coding, I've been practicing on the Codecademy app.
+
+**Thoughts**: I am very bad at terminal. I tried doing every step I could find to troubleshoot and fix and nothing came up the way I expected. But I'm understanding CSS a little better and the Reboot site was easy - had a little trouble figuring out what `div` to target to set the main body content full-height without any overbleed or shortness, but I thiiiiink I got it.
+
+**Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
+[Reboot podcast site](http://alphanumeric.draft.superhi.com/index.html)
