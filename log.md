@@ -212,3 +212,31 @@ Work was very rough, so I took a brain break.
 **Link to work:** [Codecademy profile](https://www.codecademy.com/desilove)
 [Reboot podcast site](http://alphanumeric.draft.superhi.com/index.html)
 [Flexbox Froggy](http://flexboxfroggy.com/)
+
+
+
+### April 11 
+**Today's progress**: 
+
+**Thoughts**:
+
+**Link to work**: 
+[Glitch Mission Statement generator](http://plum-mimosa.glitch.me), submitted PR to dev.to:  https://github.com/thepracticaldev/dev.to/pull/2391, 
+
+### April 12
+**Today's progress**: Went back to revisit the UX Design course and take better notes, made a few more pull requests, and came up with a challenge to put together to help with Javascript/my tendecy to get anal about style and layout
+
+**Thoughts**: Yesterday's crash course in Github empowered me to feel like I can contribute to or edit some other resrouces, so I submitted the Broadly gender inclusive stock photo set to the [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) repo, and also sent another PR to dev.to to update something in the readme. 
+
+**Link to work**: 
+[Awesome Design Tools PR](https://github.com/LisaDziuba/Awesome-Design-Tools/pull/184), [UX Design Course](https://www.notion.so/desilove/Tech-Notes-03d576705aad463983cad75b40e8177b), [posted on dev.to](https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-april-7-2019-2f08), [created a github hello-world](https://guides.github.com/activities/hello-world/), [came up with a "one hour" challenge to better learn javascript](https://www.notion.so/desilove/100-Days-of-Code-Curriculum-874e72b904d64e6bb453a071ee971532), [made clocks in JS](https://codepen.io/desilove/pen/gyxLEO), [DEV.to PR](https://github.com/thepracticaldev/dev.to/pull/2423), [started making a silly music review generator](https://www.notion.so/desilove/Music-review-word-salad-randomizer-templates-etc-d438e08d5d134a088bfb1bb7202f8eb9)
+
+April 13
+**Today's progress**: 
+
+**Thoughts**:
+
+**Link to work**: 
+Made some PRs to some lists on github,
+https://github.com/zudochkin/awesome-newsletters/pull/109
+https://github.com/rShetty/awesome-podcasts/pull/237
