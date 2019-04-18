@@ -240,3 +240,13 @@ April 13
 Made some PRs to some lists on github,
 https://github.com/zudochkin/awesome-newsletters/pull/109
 https://github.com/rShetty/awesome-podcasts/pull/237
+
+
+April 16: 
+UX Course, 
+
+April 17: 
+Finshed UX course, wireframed Dessa project, built out HTML for some of the Dessa layout
+
+April 18:
+Superhi D3 week 1
