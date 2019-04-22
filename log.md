@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Template
+### Date
+**Today's progress**:
+
+**Thoughts**: 
+
+**Link to work**: 
+
 ### Day 1: March 3, 2019
 
 **Today's Progress**: Pair programmed with Justine and Al
@@ -242,11 +250,41 @@ https://github.com/zudochkin/awesome-newsletters/pull/109
 https://github.com/rShetty/awesome-podcasts/pull/237
 
 
-April 16: 
-UX Course, 
+### April 16: 
+UX Course, made a style guide for Dessa project
 
-April 17: 
+**Link to work**: [Dessa style guide](https://codepen.io/desilove/pen/ROjMZO), [UX Course notes](https://www.notion.so/desilove/Superhi-Intro-to-UX-5eb8a33fa02f48f5b2d4321485967e77)
+
+### April 17: 
 Finshed UX course, wireframed Dessa project, built out HTML for some of the Dessa layout
 
-April 18:
-Superhi D3 week 1
+**Link to work**: [Dessa wireframe](https://www.figma.com/file/xK6IxhR6ouqgUGkYmMeNIO/dessa-wireframe), [UX course notes](https://www.notion.so/desilove/Superhi-Intro-to-UX-5eb8a33fa02f48f5b2d4321485967e77)
+
+### April 18:
+Superhi D3 week 1: [notes](https://www.notion.so/desilove/Week-1-Step-Counter-in-HTML-CSS-and-SVG-3be9bab1cbdc4b16a3bbcff6f8700423) and [project](http://step-counter-6.superhi.com/)
+
+### April 19
+**Today's progress**:
+
+**Thoughts**: 
+
+**Link to work**: 
+[Built out quick sticky blog layout idea](https://codepen.io/desilove/pen/NmyQEp)
+
+### April 20
+**Today's progress**: Worked on Boyce Slideshow
+
+**Thoughts**: The stuff I've been learning lately has made me start to really feel like I'll know enough and be able to build these data projects I have in my head in javascript which is a cool feeling.
+
+**Link to work**: [Boyce slideshow](http://week-8-boyce-slideshow-30.superhi.com)
+
+### April 21
+**Today's progress**: Finished the foundations course! Also continued on data viz course and did a tutorial on creating an animated SVG wave in js. Posted weekly dev.to roundup.
+
+**Thoughts**: I don't quite understand the SVG wave - going to play around with it and will ask for help if needed.
+
+**Link to work**:
+Superhi D3 week 1.B:  [notes](https://www.notion.so/desilove/Week-1-Step-Counter-in-HTML-CSS-and-SVG-3be9bab1cbdc4b16a3bbcff6f8700423) and [project](http://step-counter-6.superhi.com/)
+[Put up Foundation classes on github](https://github.com/desirottman/superhi)
+[Animated SVG Wave](https://codepen.io/desilove/pen/Nmzmqe)
+[DEV.to post](https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-april-14-2019-41jh)
